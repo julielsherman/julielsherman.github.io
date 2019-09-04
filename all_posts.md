@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: My Piano Video Lessons
+landing-title: 'My Piano Video Lessons'
 nav-menu: yes
 description: null
 image: null
