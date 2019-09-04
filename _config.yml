@@ -9,7 +9,7 @@ author: Julie Love Sherman
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 1 # 6
 
 # social settings
 github_url: https://github.com/julielsherman
