@@ -1,5 +1,5 @@
 <!-- Contact -->
-<section id="contact">
+<!--<section id="contact">
 	<div class="inner">
 		<section>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
@@ -29,14 +29,14 @@
 					<a href="#">{{ site.email }}</a>
 				</div>
 			</section>
-			<!--<section>
+			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Phone</h3>
 					<span>{{ site.phone }}</span>
 				</div>
-			</section>-->
-			<!--<section>
+			</section>
+			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
 					<h3>Address</h3>
@@ -58,10 +58,10 @@
 					{% endif %}
 					</span>
 				</div>
-			</section>-->
+			</section>
 		</section>
 	</div>
-</section>
+</section>-->
 
 <!-- Footer -->
 	<footer id="footer">
@@ -75,6 +75,9 @@
 				{% endif %}
 				{% if site.youtube_url %}
 				<li><a href="{{ site.youtube_url }}" class="icon alt fa-youtube-play" target="_blank"><span class="label">YouTube</span></a></li>
+				{% endif %}
+				{% if site.email %}
+				<li><a href="{{ site.email }}" class="icon alt fa-envelope" target="_blank"><span class="label">Email</span></a></li>
 				{% endif %}
 				{% if site.instagram_url %}
 				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
