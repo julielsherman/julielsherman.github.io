@@ -1,7 +1,6 @@
 ---
 layout: allposts
 title: My Piano Video Lessons
-landing-title: 'My Piano Video Lessons'
 nav-menu: yes
 description: null
 image: assets/images/tania-miron-Xr9rHbY43Po-unsplash.jpg
