@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Piano Improv in G♭ Major
-description: Let's work together to practice some fun improvisation
+description: "Let's work together to practice some fun improvisation"
 image: null
 category: piano
 ---
