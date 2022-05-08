@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About Me
 nav-menu: true
 image: assets/images/website-3.jpg
