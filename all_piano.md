@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: allpiano
 title: My Piano Video Lessons
 nav-menu: yes
 description: null
