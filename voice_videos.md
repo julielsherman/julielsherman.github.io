@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: allvoice
 title: My Voice Video Lessons
 nav-menu: yes
 description: null
