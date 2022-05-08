@@ -5,4 +5,6 @@ description: Vocal exercises
 image: null
 category: voices
 ---
-<iframe width="80%" src="https://www.youtube.com/embed/X3zdOtOPg5A" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="middle"></iframe>
+<div class="video_wrapper">
+  <iframe  width="100%" height="100%" src="https://www.youtube.com/embed/X3zdOtOPg5A" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="middle"></iframe>
+</div>
