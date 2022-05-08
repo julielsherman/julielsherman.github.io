@@ -18,9 +18,5 @@ youtube_url: https://www.youtube.com/channel/UCxOvTfDgnDjXsbqm7_OpLGw
 # build settings
 markdown: kramdown
 
-collections:
-  voice:
-    output: true
-
 sass:
   style: compressed
