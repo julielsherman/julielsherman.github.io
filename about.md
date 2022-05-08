@@ -1,6 +1,6 @@
 ---
 layout: page
-title: foo
+title: About Me
 nav-menu: true
 image: assets/images/website-3.jpg
 show_tile: true
