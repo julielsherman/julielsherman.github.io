@@ -1,0 +1,62 @@
+---
+layout: page
+title: foo
+nav-menu: true
+image: assets/images/website-3.jpg
+show_tile: true
+---
+
+After completing a Bachelor’s degree in music education from Northland International University, a small college located in Northern Wisconsin, I began my musical teaching career in 2001 on the beautiful island of Oahu. From there, I’ve had opportunities to teach in Georgia, Virginia, North Carolina, and Michigan.
+My teaching background includes general elementary music classes, chorus, band, handchime ensemble, theater, and public speaking; I’ve also taught private instruction in piano, voice, and beginning violin. My varied teaching experiences have given me the chance to work with students of all ages, interests, and abilities – inspiring elementary children through an Orff approach to learning, preparing high school choirs for competition, coaching vocal students for college auditions, introducing beginning students to a life-long relationship with music, and helping adults gain confidence to participate in music.
+
+I’ve continued my own personal musical training through singing in community choirs and ensembles, studying private violin and voice lessons, and maintaining regular professional development through webinars and online courses.
+
+# My Journey:
+## An off-key intro...
+I honestly don’t remember when my connection with music started; I have vague memories of a random group piano lesson when I was young, of playing melody bells in church as a child, of singing with my older sisters at a banquet, and of generally making “musical” noise all throughout my childhood. My parents fostered a love for music within me throughout everyday life – with music as the background to almost everything I did while growing up.
+
+Though I loved music, my first musical education experiences were a little lackluster. Just like every other elementary student, I participated in the typical general music education classes, and I actually hated them. In third grade music class, I had to learn flutophone. That was not an enjoyable instrument for me; in fact, I remember pretending to play my flutophone during class instead of actually playing it. I was that child in the back of the room moving my fingers and looking like I was blowing air into that terrible plastic instrument. 
+
+Sometime around fifth grade, my parents signed me up for private violin lessons. Let’s just say, I was not a model violin student – struggling to practice regularly, making more squeaking noises than sounds that could be described as musical, and getting discouraged with my progress. Though I continued my violin lessons through high school, played in college orchestra for a few years, and even took private lessons as an adult, to this day I would consider myself a “closet violinist” at best. It’s probably the hardest instrument I’ve ever tried to learn, and yet I learned so many valuable lessons through the discipline of trying something challenging. 
+
+In middle school, I joined the school band and played in the percussion section. I didn’t really learn a lot about music there – that’s the section of the band that mostly goofs off, but I had a lot of fun. Somewhere along the line, I started playing flute and moved to the woodwind section. That didn’t last long, but I was gaining experience and exposure to new aspects of music. I also sang in choirs both at school and church, played violin in a community youth orchestra, and started dabbling at the piano. 
+
+Piano is where I really started to connect with music. As far back as I can remember, we had a piano in our home; I spent hours playing it. Toward the end of high school, I started formal piano lessons; that’s when I decided I wanted to study music in college.  
+
+## An unexpected bridge...
+Can you imagine showing up as a college freshman with less than two years of formal piano training and announcing that you planned on being a piano major? I realized very quickly that I didn’t know enough. I had had years of musical interaction, and I had a love for music, but I lacked the formal training that most of my peers had. I had to work hard in college – probably harder than many of my counterparts; I had a lot of catching up to do. Music theory was such a struggle for me. Composition, part-writing, and counterpoint? Forget about it. I wasn’t an A student; my grades were fairly average. I didn’t win any musical awards. But I gained so much through my training in college. I got involved in as many musical venues as possible – accompanying private lessons, singing in choirs and ensembles, playing in orchestra, playing piano at church, taking voice lessons, even trying to pick up guitar on the side. I had the blessing of many amazing mentors – professors who invested in me as a person and impacted the teacher I am today. 
+
+But by the time I reached the beginning of my senior year, I was burning out musically; I was losing my love for the art. Honestly, I just wanted to graduate and be done. At that point, I didn’t even care if I became a music teacher; I was tired – all I did was music, even in my downtime. And then I started my student teaching and fell in love with music all over again – specifically, I fell in love with teaching music. By the time I finished my student teaching requirements, I couldn’t wait to land my first teaching job. The experience of seeing firsthand the results of my four years of focused training was invigorating –
+seeing students grasp a new musical idea, seeing their excitement when they “got it” for the first time, seeing their progress – it made it all worth it. All those hours in the practice room, all the late nights studying for exams – worth it.
+
+## An exciting cadenza...
+I landed my first teaching job on the beautiful island of Oahu. No joke – I went from the tundra of Wisconsin to the white sandy beaches of Hawaii. That’s where I learned how to actually be a teacher; though my college training was preparation for teaching, I needed the real-life experience of having my own classroom of students. It was a good first experience, and it prepared me to grow through the challenges I would face at my second teaching job. I moved to Virginia after only a few years of teaching and took on a role I wasn’t quite prepared for. Through my time teaching at this school, I learned to keep going through discouragement; not all teaching experiences are filled with “lightbulb moments” and exciting “wins.” Sometimes teaching can be disappointing; sometimes it’s lonely; sometimes it’s more about learning more about yourself. And though I didn’t enjoy that part of my journey, I know it prepared me for greater growth.
+
+The majority of my teaching took place in North Carolina. This is where I learned to push myself – to push my limits and creativity – to see just what I was capable of as a teacher. I learned classroom control and organization. I learned how to have fun with music – to incorporate improvisation and movement into the learning process. I learned my personal style as a teacher. I learned to try new things even if I wasn’t quite sure what the outcome would be. I learned how to connect with students – how to help them realize their abilities. It was a good place for me to experience growth; I was getting comfortable with who I had become as a teacher and as a musician.
+
+## An unplanned fermata...
+I could have easily continued on in North Carolina, but my journey took a turn when we moved to Michigan for my husband to pursue his PhD. And seemingly, my connection with music came to a halt; it was as though I left the musical version of myself in North Carolina and brought a completely different version with me to the north. I wasn’t able to find any music teacher job openings – none of the schools nearby were hiring. And all of a sudden, I no longer had music in my life. After more than three decades of music having been a constant in my life, I felt lost. And even though I still had my violin and piano, I didn’t feel connected to them. I didn’t want to play; I didn’t want to sing. And the longer I went without practicing, the less I felt like trying. This is where I struggled the most with imposter syndrome – I doubted my abilities, my knowledge, my experience. I felt betrayed by music, and for a few years I had nothing to do with it. My piano mocked me when I passed it on my way out the door to my 9 to 5 office job. 
+
+## An interesting turnaround...
+And then something changed; I didn’t even see it coming, but I decided to update my resume and see if I could work a side hustle teaching private studio lessons – something I had done off and on throughout my classroom teaching career. Surprisingly, the local music studio was looking for someone just like me. Having lost a couple years of musical connection, I felt driven to boost my teaching skills – I devoured podcasts on teaching piano; I scoured YouTube for effective vocal exercises; I searched for additional teaching resources from other studio teachers’ websites. And through this need to feel adequate to teach again, I found myself growing in ways I had never grown before both as a teacher and as a musician. If my journey hadn’t taken this “detour” to Michigan, I would have missed out on this aspect of my musical experience because I wouldn’t have been looking for it.
+
+## My unique opus...
+This is my journey. It doesn’t look like anyone else’s, and it doesn’t really look like what I had expected it to be. There are parts that have been painful; just as there have been parts that have been exhilarating. But nonetheless, it’s my journey. It’s what has molded me and shaped me into the teacher and musician I am and am continuing to become, and for that I am grateful. So maybe you’re like me – struggling to make sense out of your journey because it doesn’t look like anyone else’s. Just remember:  Your journey is just as unique as you are. Enjoy the adventure.
+
+# My Teaching Approach:
+Having had music as an integral part of my life for as long as I can remember, I’ve seen how it has enhanced my life far more than any other singular activity. Through music I’ve learned confidence, personal discipline, time management, problem-solving, creativity, and teamwork. Through teaching, I hope to create life-long musicians, giving them access to the same benefits I received from having music in my life; that goal motivates everything I do in each lesson. 
+
+I believe a student who loves making music will be a life-long musician, so my job is to fuel that love in my students. Not all life-long musicians look the same because each one has a different reason for adding musical study to his or her life. Because of that, each student’s successes will look vastly different. For one of my students, her success was getting accepted into the music program at a university; for another, her success was when she exclaimed, “Hey, that sounded like a song!” after playing lead sheet on the piano; another felt successful just having the confidence to participate in a recital.
+
+Even though each student’s personal success in music looks different, I have found the following activities to be excellent tools in helping all my students progress toward their individual goals; I aim to incorporate these activities as often as possible.
+
+*	Listening – Mimicking, hearing, describing, analyzing, comparing
+*	Playing and/or singing – Chanting, humming, playing, drumming, singing
+*	Reading – Sight-reading, recognizing, identifying, verbalizing, explaining, transcribing
+*	Moving – Tapping, clapping, swaying, stepping, dancing, marching, conducting
+*	Creating – Improvising, ad-libbing, composing, story-telling
+*	Performing – Demonstrating, recording, presenting, participating, performing
+
+Because my goal is to fuel my students’ passion for music, I measure my effectiveness largely through my students’ responses – excitement over finally tackling a challenging piece, enthusiasm for singing a note previously considered to be “too high”, or giddiness over scoring well in a musical competition.
+
+I teach music because I honestly believe it’s what I was gifted to do with my life – because it’s the career path that best fits who I am; teaching music allows me the outlet to share my enthusiasm for what I love with others. It gives me the opportunity to influence other people’s lives in a positive manner. It’s my way of having an impact one “lightbulb moment” at a time.
