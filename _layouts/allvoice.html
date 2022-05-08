@@ -19,14 +19,14 @@
       <!-- One -->
       <section id="one">
 	<div class="inner">
-          {% for post in site.categories.voice %}
-	  {% if post.title != 404 %}
+          {% for voice in site.categories.voices %}
+	  {% if voice.title != 404 %}
 	  <header class="major">
-	    <h1>{{ post.title }}</h1>
+	    <h1>{{ voice.title }}</h1>
 	  </header>
-	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+	  {% if voice.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
 	  <!--{% if post.date %}<p>{{ post.date }}</p>{% endif %}-->
-	  <p>{{ post.content }}</p>
+	  <p>{{ voice.content }}</p>
 	  {% endif %}
           {% endfor %}
 	</div>
